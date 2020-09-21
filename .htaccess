@@ -1,6 +1,7 @@
 Options +FollowSymLinks
 RewriteEngine On
 RewriteBase /
+RewriteRule ^index/?$ /index.htm
 RewriteRule ^about-us/?$ /about-us.htm
 RewriteRule ^accreditations/?$ /accreditations.htm
 RewriteRule ^contact-us/?$ /contact-us.htm
