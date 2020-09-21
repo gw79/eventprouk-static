@@ -1,0 +1,30 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+RewriteRule ^about-us/?$ /about-us.htm
+RewriteRule ^accreditations/?$ /accreditations.htm
+RewriteRule ^contact-us/?$ /contact-us.htm
+RewriteRule ^privacy-policy/?$ /privacy-policy.htm
+RewriteRule ^services-christmas-parties/?$ /services-christmas-parties.htm
+RewriteRule ^services-conferences/?$ /services-conferences.htm
+RewriteRule ^services-corporate-entertainment/?$ /services-corporate-entertainment.htm
+RewriteRule ^services-event-management/?$ /services-event-management.htm
+RewriteRule ^services-incentive-travel/?$ /services-incentive-travel.htm
+RewriteRule ^services-international-conferencing/?$ /services-international-conferencing.htm
+RewriteRule ^services-online-booking/?$ /services-online-booking.htm
+RewriteRule ^services-onsite-event-management/?$ /services-onsite-event-management.htm
+RewriteRule ^services-venue-finding/?$ /services-venue-finding.htm
+RewriteRule ^services-weddings/?$ /services-weddings.htm
+RewriteRule ^christmas-parties/?$ /services-christmas-parties.htm
+RewriteRule ^conferences/?$ /services-conferences.htm
+RewriteRule ^corporate-entertainment/?$ /services-corporate-entertainment.htm
+RewriteRule ^event-management/?$ /services-event-management.htm
+RewriteRule ^incentive-travel/?$ /services-incentive-travel.htm
+RewriteRule ^international-conferencing/?$ /services-international-conferencing.htm
+RewriteRule ^online-booking/?$ /services-online-booking.htm
+RewriteRule ^onsite-event-management/?$ /services-onsite-event-management.htm
+RewriteRule ^venue-finding/?$ /services-venue-finding.htm
+RewriteRule ^weddings/?$ /services-weddings.htm
+RewriteRule ^services/?$ /services.htm
+RewriteRule ^sitemap/?$ /sitemap.htm
+RewriteRule ^testimonials/?$ /testimonials.htm
