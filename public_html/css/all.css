@@ -93,20 +93,11 @@ html>body .header .search .txtfield {height: auto; }
 .sidemenu .menu {padding: 0px 0px;margin:0px;}
 .sidemenu .menu a, .sidemenu .menu a:visited {text-decoration:none;padding:5px 7px;font-size:16px;font-family:Arial;color:#000000;outline:none;line-height:28px;height:28px;vertical-align:middle;}
 * html .sidemenu .menu a, * html .sidemenu .menu a:visited {padding:6px 9px 8px 9px;font-size:16px;font-family:Arial;vertical-align:middle;}
-/*.sidemenu .menu a:hover {color:#ffffff;}*/
 .sidemenu .menu .item {padding: 0px 0px 0px 1px;text-align: right; }
-/*.sidemenu .menu .level1.actual {background:url(../images/menu-left.gif) 0px 2px no-repeat;}
-.sidemenu .menu .level1.actual > a {background:url(../images/menu-right.gif) right top no-repeat;}
-.sidemenu .menu .level2.actual {background:url(../images/sub-menu-left.gif) 0px 2px no-repeat;}
-.sidemenu .menu .level2.actual a {background:url(../images/sub-menu-right.gif) right top no-repeat;}*/
-/*.sidemenu .menu .level1.actual {border:1px solid #e4670a;border-radius:2px;}*/
 .sidemenu .menu .level1.actual > a, .sidemenu .menu a:hover {background:#000000;color:#ffffff;}
-/*.sidemenu .menu .level2.actual {border:1px solid #e4670a;border-radius:2px;}*/
 .sidemenu .menu .level1 a:hover {background:#4c4c4c;color:#ffffff;}
 .sidemenu .menu .level2.actual a {background: #000; color:#fff;} 
 .sidemenu .menu .level2 a:hover {background:#CD7CCD;color:#ffffff;}
-/*.sidemenu .menu .nosel {background:none;}
-.sidemenu .menu .nosel a {background:none;}*/
 .sidemenu .menu p {padding: 0px 0px 0px 0px; margin: 0px; }
 .sidemenu .menu ul {list-style:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}
 .sidemenu .menu li {list-style:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;line-height: 27px;}
@@ -114,16 +105,7 @@ html>body .header .search .txtfield {height: auto; }
 .sidemenu .level1 ul li {line-height:27px;font-size:13px}
 .sidemenu .level1 ul a, .sidemenu .level1 ul a:visited {font-size:13px;padding:4px 6px 6px 6px; line-height:26px;height:26px;vertical-align:middle;}
 * html .sidemenu .level1 ul a, * html .sidemenu .level1 ul a:visited {font-size:13px;padding:4px 6px 6px 6px; line-height:26px;height:26px;vertical-align:middle;}
-/*.sidemenu .level1 ul a, .sidemenu .level1 ul a:visited {padding:2px 6px 8px 6px\0/;}*/
-/*.sidemenu .level1 ul a:hover {color:#ffffff;}*/
 * html .sidemenu .actual a{color:#fff !important;}
-/*.sidemenu { margin-bottom: 24px;}
-.sidemenu .menu {border: 2px solid rgb(191,191,191); padding: 10px 0px;}
-.sidemenu .menu a, .sidemenu .menu a:visited {font-weight: bold; text-decoration: none;}
-.sidemenu .menu a:hover {text-decoration: underline;}
-.sidemenu .menu .item {padding: 3px 6px 0px 15px; }
-.sidemenu .menu .sel {background: rgb(166,167,169);}
-.sidemenu .menu p {padding: 0px 0px 4px 20px; margin: 0px; }*/
 
 .registerImg {display:block;width:237px;height:112px;background:url(../images/register-btn.gif) no-repeat;}
 .registerImg:hover{background:url(../images/register-btn.gif) 0 -112px no-repeat;}
